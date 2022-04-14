@@ -1,0 +1,15 @@
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\bin\Debug\net6.0\helloWorldInCSharp.exe
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\bin\Debug\net6.0\helloWorldInCSharp.deps.json
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\bin\Debug\net6.0\helloWorldInCSharp.runtimeconfig.json
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\bin\Debug\net6.0\helloWorldInCSharp.dll
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\bin\Debug\net6.0\helloWorldInCSharp.pdb
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\helloWorldInCSharp.csproj.AssemblyReference.cache
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\helloWorldInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\helloWorldInCSharp.AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\helloWorldInCSharp.AssemblyInfo.cs
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\helloWorldInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\helloWorldInCSharp.dll
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\refint\helloWorldInCSharp.dll
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\helloWorldInCSharp.pdb
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\helloWorldInCSharp.genruntimeconfig.cache
+C:\Users\santo\OneDrive\Desktop\practicejs\helloWorldInCSharp\obj\Debug\net6.0\ref\helloWorldInCSharp.dll
